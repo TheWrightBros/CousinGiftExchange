@@ -11,3 +11,4 @@
 // about supported directives.
 
 //= require_tree ./app/home
+require("app/test/test")
