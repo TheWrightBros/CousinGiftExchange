@@ -6,7 +6,6 @@ gem 'rails', '4.0.2'
 # Utilize postgresql for the database
 gem 'pg', '~> 0.18.4'
 
->>>>>>> updated db config
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
