@@ -1,7 +1,11 @@
 source 'https://rubygems.org'
+ruby '2.2.4'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
+
+#keep heroku happy with this accessory gem
+gem 'rails_12factor'
 
 # Utilize postgresql for the database
 gem 'pg', '~> 0.18.4'
