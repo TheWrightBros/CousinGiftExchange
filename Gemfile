@@ -7,6 +7,9 @@ gem 'rails', '4.0.2'
 #keep heroku happy with this accessory gem
 gem 'rails_12factor'
 
+#a webserver for heroku
+gem 'puma'
+
 # Utilize postgresql for the database
 gem 'pg', '~> 0.18.4'
 
